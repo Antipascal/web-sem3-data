@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "name": "John Smith",
+      "nickname": "@johnsmith",
+      "escalation_phone": "123-456-7890",
+      "permission": "viewer"
+    },
+    {
+      "name": "Sarah Johnson",
+      "nickname": "@sarahjohnson",
+      "escalation_phone": "987-654-3210",
+      "permission": "editor"
+    },
+    {
+      "name": "Michael Brown",
+      "nickname": "@michaelbrown",
+      "escalation_phone": "555-123-4567",
+      "permission": "admin"
+    },
+    {
+      "name": "Emily Davis",
+      "nickname": "@emilydavis",
+      "escalation_phone": "123-456-7890",
+      "permission": "viewer"
+    },
+    {
+      "name": "David Wilson",
+      "nickname": "@davidwilson",
+      "escalation_phone": "987-654-3210",
+      "permission": "editor"
+    },
+    {
+      "name": "Jessica Thomas",
+      "nickname": "@jessicathomas",
+      "escalation_phone": "555-123-4567",
+      "permission": "admin"
+    },
+    {
+      "name": "Andrew Martinez",
+      "nickname": "@andrewmartinez",
+      "escalation_phone": "123-456-7890",
+      "permission": "viewer"
+    },
+    {
+      "name": "Jennifer Davis",
+      "nickname": "@jenniferdavis",
+      "escalation_phone": "987-654-3210",
+      "permission": "editor"
+    },
+    {
+      "name": "Joseph Brooks",
+      "nickname": "@josephbrooks",
+      "escalation_phone": "555-123-4567",
+      "permission": "admin"
+    },
+    {
+      "name": "Sophia Hernandez",
+      "nickname": "@sophiahernandez",
+      "escalation_phone": "123-456-7890",
+      "permission": "viewer"
+    },
+    {
+      "name": "Daniel Clark",
+      "nickname": "@danielclark",
+      "escalation_phone": "987-654-3210",
+      "permission": "editor"
+    },
+    {
+      "name": "Olivia Adams",
+      "nickname": "@oliviaadams",
+      "escalation_phone": "555-123-4567",
+      "permission": "admin"
+    },
+    {
+      "name": "Matthew Turner",
+      "nickname": "@matthewturner",
+      "escalation_phone": "123-456-7890",
+      "permission": "viewer"
+    },
+    {
+      "name": "Ava Baker",
+      "nickname": "@avabaker",
+      "escalation_phone": "987-654-3210",
+      "permission": "editor"
+    },
+    {
+      "name": "William Mitchell",
+      "nickname": "@williammitchell",
+      "escalation_phone": "555-123-4567",
+      "permission": "admin"
+    },
+    {
+      "name": "Isabella Scott",
+      "nickname": "@isabellascott",
+      "escalation_phone": "123-456-7890",
+      "permission": "viewer"
+    },
+    {
+      "name": "James Rodriguez",
+      "nickname": "@jamesrodriguez",
+      "escalation_phone": "987-654-3210",
+      "permission": "editor"
+    },
+    {
+      "name": "Mia Murphy",
+      "nickname": "@miamurphy",
+      "escalation_phone": "555-123-4567",
+      "permission": "admin"
+    },
+    {
+      "name": "Benjamin Young",
+      "nickname": "@benjaminyoung",
+      "escalation_phone": "123-456-7890",
+      "permission": "viewer"
+    },
+    {
+      "name": "Avery Turner",
+      "nickname": "@averyturner",
+      "escalation_phone": "987-654-3210",
+      "permission": "editor"
+    }
+  ]
+}
